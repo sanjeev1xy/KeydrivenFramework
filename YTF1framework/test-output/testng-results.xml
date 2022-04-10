@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33915" started-at="2022-03-06T11:48:03Z" finished-at="2022-03-06T11:48:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33915" started-at="2022-03-06T11:48:03Z" finished-at="2022-03-06T11:48:37Z">
+      <class name="Datadriven.datadrivenframework">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:Datadriven.datadrivenframework@7219ec67]" name="test1" duration-ms="19384" started-at="2022-03-06T17:18:03Z" data-provider="dp2" finished-at="2022-03-06T17:18:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanjeev8697@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13bme1388]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:Datadriven.datadrivenframework@7219ec67]" name="test1" duration-ms="14248" started-at="2022-03-06T17:18:22Z" data-provider="dp2" finished-at="2022-03-06T17:18:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanjjev343]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[125558]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- Datadriven.datadrivenframework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

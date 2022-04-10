@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="org.testing.testscripts.TC6">
+        <methods>
+          <include name="close"/>
+          <include name="TestCase6"/>
+          <include name="browserinvoke"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC6 -->
+      <class name="org.testing.testscripts.TC3">
+        <methods>
+          <include name="close"/>
+          <include name="browserinvoke"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC3 -->
+      <class name="org.testing.testscripts.TC8">
+        <methods>
+          <include name="close"/>
+          <include name="browserinvoke"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC8 -->
+      <class name="org.testing.testscripts.TC5">
+        <methods>
+          <include name="close"/>
+          <include name="browserinvoke"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC5 -->
+      <class name="org.testing.testscripts.TC2">
+        <methods>
+          <include name="close"/>
+          <include name="browserinvoke"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC2 -->
+      <class name="org.testing.testscripts.TC1">
+        <methods>
+          <include name="close"/>
+          <include name="browserinvoke"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC1 -->
+      <class name="org.testing.testscripts.TC7">
+        <methods>
+          <include name="close"/>
+          <include name="browserinvoke"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC7 -->
+      <class name="org.testing.testscripts.TC4">
+        <methods>
+          <include name="close"/>
+          <include name="browserinvoke"/>
+          <include name="TestCase4"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC4 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
